@@ -18,4 +18,10 @@ Belhard academy:
 2.CSS3
 3.Javascript</code>
 
-<code>**Code expample:**</code>
+<code>**Code example:**</code>
+```
+function reverse_a_number(n) {
+ let n = n + "";
+  return n.split("").reverse().join("");
+}
+```
